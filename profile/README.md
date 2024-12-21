@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-MachineHub is inventing new AI agents that will augment software engineering teams. These agents are designed to be fully autonomous and collaborate with other agents and engineers. They can implement a project given high level purpose and requirements. 
-
-## Rivet
-This is our MVP repo where our agents are actively working on implmeneting an S3 Object Storage system using Go. 
-
-https://github.com/machinehub-io/rivet
+MachineHub is creating new AI agents that will augment software engineering teams. These agents are designed to be fully autonomous and collaborate with other agents and engineers. They can implement a project given high level purpose and requirements. 
 
 ## Agent Elle
 Elle is our most advanced agent with higher level reasoning. Given a purpose, she lays out a project plan and implementation steps to execute. She ensures the project adheres to high level objectives and requirements
